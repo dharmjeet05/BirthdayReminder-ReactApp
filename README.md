@@ -1,3 +1,3 @@
-## Idea
+## Live Preview
 
-[https://uidesigndaily.com/](https://uidesigndaily.com/posts/sketch-birthdays-list-card-widget-day-1042)
+[https://birthday-reminder-dharmjeet.netlify.app//](https://birthday-reminder-dharmjeet.netlify.app/)
